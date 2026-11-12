@@ -2,9 +2,9 @@
 <h1 align="center">Hey there 👋, I am Thai Vy Tran</h1>
 <h3 align="center">About me</h3>
 
-- 🎓 BSc in **Information Technology, VNUHCM - University of Science**
-
 - 🎓 MSc in **Data Science and Business Analytics, University of Warsaw**
+  
+- 🎓 BSc in **Information Technology, VNUHCM - University of Science**
 
 - 🎯 Currently **learning and exploring new technologies**
 
